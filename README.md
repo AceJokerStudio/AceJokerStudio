@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a subsidiary of AceJoker Capital Inc. The code published from AceJoker Studio are mainly applications and technology which doesnt necessarily involve the financial markets. 👋
 
 <!--
 **AceJokerStudio/AceJokerStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
